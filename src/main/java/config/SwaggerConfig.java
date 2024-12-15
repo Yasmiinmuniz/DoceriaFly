@@ -32,7 +32,7 @@ public class SwaggerConfig {
                 "Esta API é utilizada para controlar requisições REST",
                 "Versão beta-1.0",
                 "",
-                new Contact("Doceria Fly", "https://github.com/albertolopes", "yasmindasilvamuniz@gmail.com"),
+                new Contact("Doceria Fly", "https://github.com/Yasmiinmuniz/DoceriaFly.git", "yasmindasilvamuniz@gmail.com"),
                 "",
                 "",
                 Collections.emptyList()
